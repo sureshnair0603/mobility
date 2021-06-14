@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WDSDeploymentGuideWaaSI&amp;CGuideimage7.png</filename>
+	<path>C:\Users\rbabu3\github\Automation\TensorFlow\workspace\training_demo\images\train\WDSDeploymentGuideWaaSI&amp;CGuideimage7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DXC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>10</ymin>
+			<xmax>279</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DXCSymbolr.png</filename>
+	<path>C:\Users\rbabu3\github\Automation\TensorFlow\workspace\training_demo\images\test\DXCSymbolr.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>56</width>
+		<height>56</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DXC</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>56</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>

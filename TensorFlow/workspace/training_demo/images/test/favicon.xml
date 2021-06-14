@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>favicon.png</filename>
+	<path>C:\Users\rbabu3\github\Automation\TensorFlow\workspace\training_demo\images\test\favicon.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>48</width>
+		<height>48</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DXC</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>5</ymin>
+			<xmax>48</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+</annotation>
